@@ -12,10 +12,7 @@ Built with React, Next.js, and the latest language model prompting techniques, H
 - [Installation](#installation)
 - [Usage](#usage)
 - [Integration](#integration)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Project Overview
 
